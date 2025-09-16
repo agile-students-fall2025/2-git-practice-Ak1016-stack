@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+**ARTICLE LINK:** [WeAreDevelopers - What is Software engineering?](https://www.wearedevelopers.com/en/magazine/289/what-is-software-engineering)
+
+I read this article which describe in detail what software engineering is, and all the fundamental roles of a software engineer. It frames software engineering as a practice that goes beyond just coding but rather the application of scientific principles to solve problems. It detailes the different categories of software engineering as **Operational software engineering**, **Transitional software engineering** and **Software engineering maintenance**.
+
+The article also differenciates between a software engineer and a software developer. It acknowledges the differences between a software engineer and software developer as well, stating how engineer takes into account the entire scope of the project, involves systems thinking and also the non-functional requirements of a project.
